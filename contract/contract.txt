@@ -1,0 +1,136 @@
+DISTRIBUTOR AFFILIATE AGREEMENT
+
+This Agreement is made between:
+
+FormYaar ("Company"), represented by Hemant Chauhan,
+and
+[Distributor Full Name], YouTube channel "[Channel Name]" ("Distributor")
+
+Effective Date: [DATE]
+Term: This Agreement renews monthly and may be ended by either party
+per Section 8.
+
+1. PURPOSE
+Distributor agrees to promote FormYaar's PAN card application service to
+their audience using a unique Coupon Code issued by the Company. In
+exchange, Company will pay Distributor a commission for each Tracked
+Referral, as defined below.
+
+2. COMMISSION
+2.1 Company will pay Distributor ₹14 (Rupees Fourteen) per Tracked Referral,
+    unless a different rate is agreed in writing for a future period.
+    Rate changes never apply retroactively.
+2.2 Payment schedule for this Agreement: every 14 days, for all Tracked
+    Referrals recorded since the last payout, with payout issued the
+    day after each 14-day period closes. No minimum payout threshold
+    applies under this Agreement. (Payment schedule/threshold may
+    differ in other distributors' agreements and does not amend this
+    one.)
+2.3 Payment via [UPI/bank transfer].
+
+3. ATTRIBUTION & PAYOUT DATA
+3.1 Definitions. The "Coupon Code" is the unique code FormYaar issues
+    to the Distributor. A "Tracked Referral" is a completed, non-refunded
+    customer payment on which the Distributor's Coupon Code was
+    successfully applied at checkout and recorded by FormYaar's
+    systems.
+3.2 Sole source of truth. FormYaar's transaction and attribution
+    records are the sole and conclusive basis for determining Tracked
+    Referrals and calculating amounts payable. Attribution is
+    determined exclusively by whether a customer applied the Distributor's
+    Coupon Code at the time of payment, as recorded automatically by
+    FormYaar's payment and webhook systems. No other measure — video
+    views, clicks, impressions, comments, self-reported numbers, or
+    third-party analytics — shall be used to determine or adjust
+    attribution or payout.
+3.3 Nature of code-based attribution. The Distributor acknowledges that a
+    customer can be attributed to the Distributor only if that customer
+    applies the Distributor's Coupon Code during payment. Customers who
+    view the Distributor's content but do not apply the Coupon Code are
+    not attributable and will not be counted. The Distributor agrees this
+    is an inherent and accepted characteristic of coupon-based
+    attribution.
+3.4 Transparency & export. FormYaar provides the Distributor continuous,
+    real-time visibility of their Tracked Referrals and earnings via
+    the Distributor dashboard, and, on reasonable written request (up to
+    once per calendar month), a data export of the Distributor's Tracked
+    Referrals for a stated period.
+3.5 Disputes. The Distributor may raise a dispute only as to whether a
+    specific transaction was correctly recorded within FormYaar's
+    system (e.g., a Coupon Code was applied but, due to a technical
+    error, not counted), in writing within 14 days of the payout date
+    on which that transaction should have appeared, citing the
+    specific order or payment reference. The Distributor waives any right
+    to challenge the attribution methodology itself, the choice of
+    coupon-code tracking, or FormYaar's records as against any
+    external or self-reported estimate of traffic, reach, or
+    conversions. FormYaar will investigate bona-fide recording errors
+    in good faith; FormYaar's determination after investigation is
+    final.
+
+4. CODE INTEGRITY & EXPIRY
+4.1 The Coupon Code remains active for the full duration of this
+    Agreement. The Distributor may distribute the Coupon Code as
+    widely as they choose to maximize their own earnings.
+4.2 Upon termination or expiry of this Agreement for any reason
+    (either party's choice, per Section 8), the Coupon Code is
+    deactivated immediately. Any subsequent attempted use of the
+    Coupon Code is simply treated as an expired/invalid code at
+    checkout — no accusation or investigation is implied.
+4.3 Commission already earned on Tracked Referrals recorded prior to
+    deactivation remains payable in full per the normal payment
+    schedule in Section 2.2, regardless of how or why the Agreement
+    ended.
+
+5. CONTENT & IP
+5.1 Distributor retains ownership of all content they produce.
+5.2 Company may reference, clip, or repost content Distributor has already
+    published (e.g., existing FormYaar-related videos) as case-study or
+    marketing material, with attribution, on a perpetual, non-exclusive,
+    royalty-free basis — since such content is already public.
+5.3 Company's right to produce NEW promotional material using Distributor's
+    name, likeness, or clips of not-yet-published content requires the
+    relationship to be active. This right lapses upon termination of
+    this Agreement, unless renewed by mutual written agreement.
+5.4 Company will provide Distributor any product screenshots, demo access,
+    or explainer material reasonably needed to produce accurate
+    content.
+
+6. NO EXCLUSIVITY
+This Agreement does not grant Distributor exclusivity in any city,
+category, or vertical unless separately agreed in writing.
+
+7. REPRESENTATIONS
+7.1 Distributor will not make false, misleading, or exaggerated claims
+    about FormYaar's service, pricing, government affiliation, or data
+    handling in their content.
+7.2 Company represents that FormYaar does not store full Aadhaar
+    numbers (only last 4 digits, as permitted) and does not
+    misrepresent data handling to end users.
+
+8. TERM & TERMINATION
+8.1 This Agreement renews monthly. Either party may end it at any time
+    with immediate effect by written notice (email is sufficient);
+    no notice period is required given the short, renewable term.
+8.2 Termination immediately deactivates the Coupon Code per 4.2, but
+    does not affect commission already earned on Tracked Referrals
+    recorded prior to deactivation — such amounts remain payable per
+    the normal payment schedule in Section 2.2.
+
+9. LIABILITY
+9.1 Company will provide refunds to end customers for failed
+    autofill/application attempts per its standard refund policy.
+9.2 Company is not liable for any indirect loss to Distributor's channel,
+    reputation, or audience relationship arising from technical
+    issues, beyond the refund remedy to the affected end customer.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of India, and any dispute shall
+be subject to the jurisdiction of courts in [Bareilly, Uttar Pradesh /
+your city].
+
+Signed:
+
+_____________________            _____________________
+Hemant Chauhan (FormYaar)         [Distributor Name]
+Date: ____________                Date: ____________
